@@ -3,6 +3,7 @@ import { Link as ReachRouterLink } from 'react-router-dom';
 
 export const Background = styled.div`
   display: flex;
+  height: 100vh;
   flex-direction: column;
   background: linear-gradient(
       to bottom,
